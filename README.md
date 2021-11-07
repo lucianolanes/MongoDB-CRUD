@@ -1,8 +1,8 @@
 # MongoDB CRUD
 
-Projeto realizado para consolidar todos conhecimentos adquiridos de MongoDB até o momento.
+Projeto realizado para consolidar todos os conhecimentos adquiridos de MongoDB até o momento.
 
-A ideia é trabalhar com o banco de dados commerce que contém dados do cardápio do McDonalds como ingredientes, valores nutricionais e dados fictícios de vendas utilizando vários operadores para ler e criar, ler, filtrar, atualizar e deletar dados.
+A idéia é trabalhar com o banco de dados "commerce" que contém dados do cardápio do McDonalds, como: ingredientes, valores nutricionais e dados fictícios de vendas utilizando vários operadores para ler, criar, filtrar, atualizar e deletar dados.
 
 ### Para restaurar o banco "commerce"
 
